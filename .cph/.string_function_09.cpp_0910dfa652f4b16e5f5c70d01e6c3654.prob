@@ -1,0 +1,1 @@
+{"name":"Local: string_function_09","url":"f:\\STL\\STL Programs\\string_function_09.cpp","tests":[{"id":1633173823404,"input":"1234 15.00 23.00 12345","output":"1300\n15.55\n23.5000\n1234"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\STL\\STL Programs\\string_function_09.cpp","group":"local","local":true}
